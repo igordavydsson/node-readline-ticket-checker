@@ -8,6 +8,6 @@ A party. The gueasts were divided in couples and each couple was given two ticke
 
 # My NodeJS solution
 I wrote a simple NodeJS app that uses native Node module Readline to handle command-line input/output. 
-1. $ node app.js
+1. `$ node app.js`
 2. type in a ticket number
 3. 
