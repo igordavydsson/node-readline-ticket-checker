@@ -7,7 +7,9 @@ A party. The gueasts were divided in couples and each couple was given two ticke
 <br><br>Now you stand at the entrance and face a challenge: all the arrived guests are waiting in line to get in and you need to check their tickets and find out those who came without their couple(s).
 
 # My NodeJS solution
-I wrote a simple NodeJS app that uses native Node module Readline to handle command-line input/output. 
+I wrote a simple NodeJS app that uses native Node module Readline to handle command-line input/output.
+<br>So, the sequence of actions is the following:
 <br>1. `$ node app.js`
 <br>2. type in a ticket number
-<br>3. 
+<br>3. register as many guests as needed
+<br>4. type `check` to see the person without a couple
