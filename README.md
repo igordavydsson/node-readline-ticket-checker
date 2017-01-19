@@ -12,4 +12,4 @@ I wrote a simple NodeJS app that uses native Node module Readline to handle comm
 <br>1. `$ node app.js`
 <br>2. type in a ticket number
 <br>3. register as many guests as needed
-<br>4. type `check` to see the person without a couple
+<br>4. type `check` to see the people without a couple
