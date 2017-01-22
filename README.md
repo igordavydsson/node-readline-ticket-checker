@@ -10,10 +10,14 @@ Now you stand at the entrance and face a challenge: all the arrived guests are w
 
 # My Node.js solution
 
-I wrote a simple NodeJS app that uses native Node module Readline to handle command-line input/output.
+I wrote a simple Node.js app that uses native Node module Readline to handle command-line input/output.
 
 So, the sequence of actions is the following:
+
 1. `$ node app.js`
+
 2. type in a ticket number
+
 3. register as many guests as needed
+
 4. type `check` to see the people without a couple
