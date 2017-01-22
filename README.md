@@ -1,4 +1,4 @@
-# node-readline-ticket-checker
+# Node-readline-ticket-checker
 
 This is a little single-file app, that I wrote for fun to tinker with Node.js. It is a solution for a task that I found randomly on the webs.
 
